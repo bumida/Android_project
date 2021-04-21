@@ -1,2 +1,2 @@
-# Android_project
-Android 학습을위한 저장소
+# Android with kotlin
+Android + firebase + jetpack
